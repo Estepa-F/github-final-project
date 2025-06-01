@@ -1,11 +1,11 @@
 # github-final-project
 
-Un calculateur qui calcule l’intérêt simple à partir du capital, du taux d’intérêt annuel et de la durée en années.
+A calculator that computes simple interest based on the principal amount, annual interest rate, and time period in years.
 
-Entrées :
-  - p, montant du capital
-  - t, durée en années
-  - r, taux d’intérêt annuel
+Inputs :
+  - p, principal amount
+  - t, time period in years
+  - r, annual interest rate
 
-Sortie :
-  - intérêt simple = p * t * r
+Output :
+  - simple interest = p * t * r
